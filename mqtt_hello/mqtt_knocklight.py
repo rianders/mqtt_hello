@@ -3,7 +3,7 @@ import random
 import paho.mqtt.client as mqtt
 
 # MQTT details
-mqtt_server = "192.168.4.153"
+mqtt_server = "192.168.1.176"
 mqtt_port = 1883
 mqtt_user = "mqtt_user"
 mqtt_pass = "151008904"
